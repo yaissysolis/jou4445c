@@ -56,3 +56,7 @@ See the syllabus.
 [Planet Money Makes a T-Shirt](http://apps.npr.org/tshirt/#/title)
 
 [Invisible Child](http://www.nytimes.com/projects/2013/invisible-child)
+
+## Weekly goals
+
+[Week 2](https://github.com/gotoplanb/jou4445c/wiki/Week-2)
