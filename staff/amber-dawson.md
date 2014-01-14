@@ -9,5 +9,5 @@ Born in Chicago. Lived in Miami. Studying Journalism. Attending University of Mi
 
 ##Stories 
 
-*One story
+*One story 
 *Another story
