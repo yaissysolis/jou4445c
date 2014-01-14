@@ -7,32 +7,7 @@ My objectives are for the team to tell great longfrom stories and service articl
 
 ## Theme
 
-1985 to 2004: General-interest magazine, first about Gainesville, then about campus.
-
-2004 to present: Class picks one theme, all stories fall under that theme (coverage area can be as broad as all of state, or as narrow as one specific geo area, such as Gainesville or North-Central Florida).
-
-* Previous themes:
-* Noise
-* Guts
-* Fire & Ice
-* Play
-* Fear
-* Night
-* Dirty
-* Sweat
-* Skin
-* Black
-* Danger
-* Secrets
-* Senses
-* Sins
-* Food
-* Water
-* Weird 
-* Alternative
-* Art
-
-Stay away from (as overall themes): Sports, music, general campus (but these stories are ok as part of a larger theme)
+Deciding between "Energy" and "Now & Then"
 
 ## Goals
 
@@ -59,4 +34,4 @@ See the syllabus.
 
 ## Weekly goals
 
-[Week 2](https://github.com/gotoplanb/jou4445c/wiki/Week-2)
+[Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
