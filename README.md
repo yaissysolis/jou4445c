@@ -77,5 +77,5 @@ See the syllabus.
 
 ## Weekly goals
 
-[Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
-[Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
+* [Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
+* [Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
