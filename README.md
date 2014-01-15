@@ -1,9 +1,10 @@
 jou4445c
 ========
 
-## Objectives
+## Weekly goals
 
-My objectives are for the team to tell great longfrom stories and service articles within a theme intended for a defined audience.
+* [Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
+* [Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
 
 ## Theme
 
@@ -74,8 +75,3 @@ See the syllabus.
 [Planet Money Makes a T-Shirt](http://apps.npr.org/tshirt/#/title)
 
 [Invisible Child](http://www.nytimes.com/projects/2013/invisible-child)
-
-## Weekly goals
-
-* [Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
-* [Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
