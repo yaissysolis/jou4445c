@@ -1,5 +1,7 @@
 # Week 3 starting January 21, 2014
 
+Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them out. You should spend several hours in there this week talking with your classmates to develop the pitches into stories. See what is possible. Suggest sources and multimedia. Share. Real work begins now.
+
 ## Preparation (before meeting)
 
 1. Add an avatar to your GitHub account by registering at [Gravatar](http://en.gravatar.com/)
